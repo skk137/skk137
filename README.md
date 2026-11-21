@@ -8,7 +8,7 @@ I like building things end to end: Spring Boot APIs, full web apps, desktop soft
 - 👨‍🏫 I actively teaching ΑΕΠΠ (programming for the Greek Panhellenic exams) to (3rd Grade of HighSchool) Γ' Λυκείου students, and built&design [aeppath.gr](https://aeppath.gr) for them! (Completed Teaching Internship at 1st General Lyceum of Spata,as part, of the requirements for obtaining the Certificate of Pedagogical and Teaching Competence.)
 - ☕ **Main stack: Java & Spring Boot** (REST APIs, JWT, Maven / Gradle, Docker, CI/CD)
 - 💼 4-month internship at **Technopolis**, working with Java & Spring Boot on Real Telecommunications Apps & Migrations
-- 🌐 Also building with Next.js, React / TypeScript and Rust (Tauri) & getting hands-on experience in Vibe-Coding
+- 🌐 Also building with Next.js, React / TypeScript and Rust (Tauri) & getting hands-on experience οn Vibe-Coding
 - 🔐 Strong interest in cybersecurity
 
 
