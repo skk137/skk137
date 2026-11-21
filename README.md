@@ -43,7 +43,7 @@ IoT automation for a home greenhouse: sensor monitoring, automated watering zone
 
 ---
 
-## University & others projects ☕ Java & Spring Boot (2022-2025 (pre-vibe coding & LLMs appears😄))
+## University & others projects ☕ Java & Spring Boot (2022-2025)
 
 | Project | What it does | Stack |
 |---|---|---|
