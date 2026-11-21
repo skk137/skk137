@@ -5,7 +5,7 @@
 I like building things end to end: Spring Boot APIs, full web apps, desktop software and IoT devices.
 
 - 🎓 Thesis: an IoT window sensor built on a Raspberry Pi and a magnetometer
-- 👨‍🏫 I teach ΑΕΠΠ (programming for the Greek Panhellenic exams) to Γ' Λυκείου students, and built [aeppath.gr](https://aeppath.gr) for them
+- 👨‍🏫 I actively teaching ΑΕΠΠ (programming for the Greek Panhellenic exams) to (3rd Grade of HighSchool) Γ' Λυκείου students, and built&design [aeppath.gr](https://aeppath.gr) for them! (Completed Teaching Internship at 1st General Lyceum of Spata,as part, of the requirements for obtaining the Certificate of Pedagogical and Teaching Competence.)
 - ☕ **Main stack: Java & Spring Boot** (REST APIs, JWT, Maven / Gradle, Docker, CI/CD)
 - 💼 4-month internship at **Technopolis**, working with Java & Spring Boot on Real Telecommunications Apps & Migrations
 - 🌐 Also building with Next.js, React / TypeScript and Rust (Tauri) & getting hands-on experience in Vibe-Coding
@@ -27,7 +27,7 @@ A study platform for Γ' Λυκείου (3rd grade of High School) students prep
 `Next.js` · `EdTech`
 
 ### 🏺 [Amphoreus: Crypto Cold Wallet, on your USB](https://github.com/skk137/AmphoreusCryptoColdWallet)
-A secure multi-chain cold wallet, that secures your keys in a usb stick u dont use anymnore. Your keys, your coins. It runs as a desktop app, not a website, with tested builds for Windows 10/11, macOS and Linux.
+A secure multi-chain cold wallet, that secures your keys in a usb stick u dont use anymnore. Your keys, your coins. It runs as a desktop app, not a website, with tested builds for Windows 10/11, macOS and Linux. Experiencing vibe code, in depth, for first time! 
 
 `Rust` · `Tauri` · `React` · `TypeScript`
 
@@ -43,18 +43,19 @@ IoT automation for a home greenhouse: sensor monitoring, automated watering zone
 
 ---
 
-## ☕ Java & Spring Boot
+## University & others projects ☕ Java & Spring Boot (2022-2025 (pre-vibe coding & LLMs appears😄))
 
 | Project | What it does | Stack |
 |---|---|---|
 | [StudyRooms](https://github.com/skk137/StudyRooms) + [NOC-HUA](https://github.com/skk137/NOC-HUA) | A distributed system for university study rooms: users, rooms, bookings and penalties. A separate stateless notification service handles user lookup, phone number normalisation, and SMS sending with a mock fallback and token caching. The two apps talk over REST and are secured with JWT. | Java 17 · Spring Boot · Thymeleaf · JWT · Swagger |
 | [rentEstate2](https://github.com/skk137/rentEstate2) + [Ansible-rentEstate](https://github.com/skk137/Ansible-rentEstate) | A real-estate rental platform with owner, tenant and admin roles and email notifications. It's deployed through a Jenkins + Ansible pipeline. | Java 21 · Spring Boot · Jenkins · Ansible |
-| [EANfromXMLmanually](https://github.com/skk137/EANfromXMLmanually) | A web scraper with a small GUI that matches EAN barcodes to product codes automatically, saving hours of manual product-data work. | Java 21 · Maven |
+| [EANfromXMLmanually](https://github.com/skk137/EANfromXMLmanually) | A web scraper with a small GUI that matches EAN barcodes to product codes automatically, saving hours of manual product-data work. | Java 21 · Maven | Data Entry Accelerator
+
 
 ## 🔌 IoT & hardware
 
 - **Thesis:** an IoT window sensor that uses a Raspberry Pi and a magnetometer to detect whether a window is open
-- [**ArduinoClass**](https://github.com/skk137/ArduinoClass): an automatic lighting system with an LDR and an LED
+- [**ArduinoClass**](https://github.com/skk137/ArduinoClass): an automatic lighting system with an LDR and an LED, for Robotics-Stem teaching lessons taken at Harokopio University Athens,as part, of the requirements for obtaining the Certificate of Pedagogical and Teaching Competence. .
 
 ---
 
@@ -82,7 +83,7 @@ IoT automation for a home greenhouse: sensor monitoring, automated watering zone
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 **IoT**
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)    
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 
 ---
