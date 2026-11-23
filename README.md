@@ -16,12 +16,12 @@ I like building things end to end: Spring Boot APIs, full web apps, desktop soft
 
 ## 🚀 Featured Personal Projects
 
-### 🗺️ [klopi.gr](https://klopi.gr) (PRIVATE github)
+### 🗺️ [klopi.gr](https://klopi.gr) (PRIVATE repo)
 A crowdsourced map where people in Greece report burglaries, thefts, vehicle thefts, vandalism and suspicious activity in their neighbourhood, with live connection with ΕΛ.ΑΣ official notifications. It has a heatmap, time filters (24h / 7d / 30d), area pages, a live feed of recent reports and user accounts. A community reward system ("Rouf coin") is currently in demo.
 
 `Next.js` · `PWA` · `Maps`
 
-### 📚 [aeppath.gr](https://aeppath.gr) (PRIVATE github)
+### 📚 [aeppath.gr](https://aeppath.gr) (PRIVATE repo)
 A study platform for Γ' Λυκείου (3rd grade of High School) students preparing for the ΑΕΠΠ Panhellenic exam. It has flashcards and a quiz for every chapter, a compact live PDF of the full syllabus, solved and unsolved exercises, past exam papers, a Pomodoro study timer, a career orientation quiz and notes for registered(my) students.
 
 `Next.js` · `EdTech`
