@@ -16,6 +16,11 @@ I like building things end to end: Spring Boot APIs, full web apps, desktop soft
 
 ## 🚀 Featured Personal Projects
 
+### 🤖 Olaf: E-shop shopping assistant (PRIVATE repo)
+A Rufus-style digital assistant that plugs into an e-shop with a single script tag. It finds the right ink, toner and other consumables from a printer's model, understands natural-language searches in Greek and greeklish ("laptop έως 500 ευρώ") without using an LLM, and connects customers to a sales rep through real-time live chat. It runs at zero cost, with no paid APIs or third-party services.
+
+`Python` · `FastAPI` · `SQLite FTS5` · `WebSockets` · `Vanilla JS`
+
 ### 🗺️ [klopi.gr](https://klopi.gr) (PRIVATE repo)
 A crowdsourced map where people in Greece report burglaries, thefts, vehicle thefts, vandalism and suspicious activity in their neighbourhood, with live connection with ΕΛ.ΑΣ official notifications. It has a heatmap, time filters (24h / 7d / 30d), area pages, a live feed of recent reports and user accounts. A community reward system ("Rouf coin") is currently in demo.
 
