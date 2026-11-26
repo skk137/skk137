@@ -48,12 +48,13 @@ IoT automation for a home greenhouse: sensor monitoring, automated watering zone
 
 ---
 
-## University & others projects ☕ Java & Spring Boot (2022-2025)
+## University ☕ Java & Spring Boot (2022-2025)
 
 | Project | What it does | Stack |
 |---|---|---|
 | [StudyRooms](https://github.com/skk137/StudyRooms) + [NOC-HUA](https://github.com/skk137/NOC-HUA) | A distributed system for university study rooms: users, rooms, bookings and penalties. A separate stateless notification service handles user lookup, phone number normalisation, and SMS sending with a mock fallback and token caching. The two apps talk over REST and are secured with JWT. | Java 17 · Spring Boot · Thymeleaf · JWT · Swagger |
 | [rentEstate2](https://github.com/skk137/rentEstate2) + [Ansible-rentEstate](https://github.com/skk137/Ansible-rentEstate) | A real-estate rental platform with owner, tenant and admin roles and email notifications. It's deployed through a Jenkins + Ansible pipeline. | Java 21 · Spring Boot · Jenkins · Ansible |
+## Personal 
 | [EANfromXMLmanually](https://github.com/skk137/EANfromXMLmanually) | A web scraper with a small GUI that matches EAN barcodes to product codes automatically, saving hours of manual product-data work. | Java 21 · Maven | Data Entry Accelerator
 
 
