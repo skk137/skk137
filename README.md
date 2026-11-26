@@ -96,6 +96,6 @@ IoT automation for a home greenhouse: sensor monitoring, automated watering zone
 
 ## ✨ Beyond code
 
-- 🧲 I am keen on, 3d printing & Modeling (https://www.etsy.com/shop/MiniYouLab) , running & kitesurfing! 
+- 🧲 I am keen on, 3d printing & Modeling (https://www.etsy.com/shop/MiniYouLab) , TRAIL running & kitesurfing! 
 
 📫 Open to backend opportunities, freelance projects and collaborations.
